@@ -1,255 +1,255 @@
 {
-  "keys": "D:\\workspace\\node\\egg-example2\\config\\config.default.js",
+  "keys": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js",
   "view": {
-    "defaultViewEngine": "D:\\workspace\\node\\egg-example2\\config\\config.default.js",
+    "defaultViewEngine": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js",
     "mapping": {
-      ".tpl": "D:\\workspace\\node\\egg-example2\\config\\config.default.js"
+      ".tpl": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js"
     },
-    "root": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view\\config\\config.default.js"
+    "root": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view/config/config.default.js"
   },
   "news": {
-    "pageSize": "D:\\workspace\\node\\egg-example2\\config\\config.default.js",
-    "serverUrl": "D:\\workspace\\node\\egg-example2\\config\\config.default.js"
+    "pageSize": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js",
+    "serverUrl": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js"
   },
-  "middleware": "D:\\workspace\\node\\egg-example2\\config\\config.default.js",
+  "middleware": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js",
   "robot": {
-    "ua": "D:\\workspace\\node\\egg-example2\\config\\config.default.js"
+    "ua": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js"
   },
   "gzip": {
-    "threshold": "D:\\workspace\\node\\egg-example2\\config\\config.default.js"
+    "threshold": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js"
   },
   "bodyParser": {
-    "jsonLimit": "D:\\workspace\\node\\egg-example2\\config\\config.default.js",
-    "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "formLimit": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "strict": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js",
+    "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "strict": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "depth": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "parameterLimit": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+      "arrayLimit": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "depth": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
     }
   },
-  "xx": "D:\\workspace\\node\\egg-example2\\config\\config.default.js",
-  "yy": "D:\\workspace\\node\\egg-example2\\config\\config.default.js",
+  "xx": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js",
+  "yy": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/config.default.js",
   "session": {
-    "maxAge": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-session\\config\\config.default.js"
+    "maxAge": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-session/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
+    "domainWhiteList": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "useSession": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "ignoreJSON": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "cookieName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "sessionName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "headerName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "bodyName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "queryName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     },
     "xframe": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.local.js",
-      "maxAge": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "includeSubdomains": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js",
-      "policy": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
     }
   },
   "helper": {
-    "shtml": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security\\config\\config.default.js"
+    "shtml": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "callback": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "csrf": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-jsonp\\config\\config.default.js"
+    "limit": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-i18n\\config\\config.default.js",
-    "dirs": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-i18n\\config\\config.default.js",
-    "queryField": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieField": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-i18n\\config\\config.default.js"
+    "defaultLocale": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-watcher\\config\\config.local.js",
+    "type": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-watcher\\config\\config.default.js",
-      "development": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-watcher\\config\\config.default.js"
+      "default": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "multipart": {
-    "autoFields": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileSize": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js",
-    "whitelist": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart\\config\\config.default.js"
+    "autoFields": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart/config/config.default.js"
   },
   "development": {
-    "watchDirs": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-development\\config\\config.default.js",
-    "ignoreDirs": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-development\\config\\config.default.js",
-    "fastReady": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-development\\config\\config.default.js",
-    "reloadOnDebug": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideDefault": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-development\\config\\config.default.js"
+    "watchDirs": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFiles": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxDays": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-static\\config\\config.default.js",
-    "dir": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-static\\config\\config.default.js",
-    "dynamic": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-static\\config\\config.default.js"
+    "prefix": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-static/config/config.default.js"
   },
   "nunjucks": {
-    "autoescape": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "throwOnUndefined": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "trimBlocks": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "lstripBlocks": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "cache": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+    "autoescape": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view-nunjucks/config/config.local.js"
   },
-  "env": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-  "name": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-  "proxy": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-  "protocolHeaders": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-  "ipHeaders": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-  "hostHeaders": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
+  "env": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+  "name": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "version": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "description": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "main": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
+    "name": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "version": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "description": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "main": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
     "scripts": {
-      "test": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "dev": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "debug": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+      "test": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "dev": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "debug": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
     },
-    "keywords": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "author": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "license": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
+    "keywords": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "author": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "license": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "egg": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "egg-view-nunjucks": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+      "egg": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+      "egg-bin": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
     }
   },
-  "baseDir": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-  "HOME": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-  "rundir": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
+  "baseDir": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+    "ignore": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "notFound": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "sitefile": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "middlewares": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "httpClient": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+    "bodyparser": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+    "pageUrl": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+    "/favicon.ico": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "env": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "level": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "outputJSON": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "appLogName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "coreLogName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "agentLogName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "errorLogName": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
+    "dir": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "env": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "level": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.local.js"
+      "consoleLevel": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+    "allowDebugAtProd": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxAge": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+      "timeout": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketKeepAliveTimeout": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketKeepAliveTimeout": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-    "logging": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+    "enable": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+    "logging": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-  "workerStartTimeout": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
+  "coreMiddleware": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "port": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "port": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "responseTimeout": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\config.default.js"
+    "responseTimeout": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/config.default.js"
   }
 }

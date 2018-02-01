@@ -75,8 +75,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-watcher\\lib\\event-sources\\default",
-        "development": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-watcher\\lib\\event-sources\\development"
+        "default": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "multipart": {
@@ -108,14 +108,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "D:\\workspace\\node\\egg-example2\\app\\public",
+      "dir": "/Users/sunrist/file/nodejs/egg/egg_tutorial/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "D:\\workspace\\node\\egg-example2\\app\\view",
+      "root": "/Users/sunrist/file/nodejs/egg/egg_tutorial/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "nunjucks",
@@ -158,9 +158,9 @@
         "egg-bin": "^4.3.7"
       }
     },
-    "baseDir": "D:\\workspace\\node\\egg-example2",
-    "HOME": "C:\\Users\\Administrator",
-    "rundir": "D:\\workspace\\node\\egg-example2\\run",
+    "baseDir": "/Users/sunrist/file/nodejs/egg/egg_tutorial",
+    "HOME": "/Users/sunrist",
+    "rundir": "/Users/sunrist/file/nodejs/egg/egg_tutorial/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -190,7 +190,7 @@
       }
     },
     "logger": {
-      "dir": "D:\\workspace\\node\\egg-example2\\logs\\egg-example2",
+      "dir": "/Users/sunrist/file/nodejs/egg/egg_tutorial/logs/egg-example2",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -289,8 +289,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-session",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -302,8 +302,8 @@
         "session"
       ],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-security",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-security",
       "version": "2.0.0"
     },
     "jsonp": {
@@ -315,8 +315,8 @@
         "security"
       ],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-jsonp",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -328,8 +328,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-onerror",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-onerror",
       "version": "2.0.0"
     },
     "i18n": {
@@ -339,8 +339,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-i18n",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -350,8 +350,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-watcher",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-watcher",
       "version": "3.0.0"
     },
     "multipart": {
@@ -361,8 +361,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-multipart",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-multipart",
       "version": "2.0.0"
     },
     "development": {
@@ -376,8 +376,8 @@
       "env": [
         "local"
       ],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-development",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-development",
       "version": "2.1.0"
     },
     "schedule": {
@@ -387,8 +387,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-schedule",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-schedule",
       "version": "3.1.1"
     },
     "logrotator": {
@@ -400,8 +400,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-logrotator",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-logrotator",
       "version": "3.0.1"
     },
     "static": {
@@ -411,8 +411,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-static",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-static",
       "version": "2.1.0"
     },
     "view": {
@@ -422,8 +422,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\node_modules\\egg\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view",
       "version": "2.0.0"
     },
     "nunjucks": {
@@ -436,8 +436,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "D:\\workspace\\node\\egg-example2\\config\\plugin.js",
-      "path": "D:\\workspace\\node\\egg-example2\\node_modules\\egg-view-nunjucks",
+      "from": "/Users/sunrist/file/nodejs/egg/egg_tutorial/config/plugin.js",
+      "path": "/Users/sunrist/file/nodejs/egg/egg_tutorial/node_modules/egg-view-nunjucks",
       "version": "2.1.4"
     }
   }
