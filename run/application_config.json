@@ -252,15 +252,13 @@
         "keepAlive": true,
         "freeSocketKeepAliveTimeout": 4000,
         "maxSockets": 9007199254740991,
-        "maxFreeSockets": 256,
-        "timeout": 30000
+        "maxFreeSockets": 256
       },
       "httpsAgent": {
         "keepAlive": true,
         "freeSocketKeepAliveTimeout": 4000,
         "maxSockets": 9007199254740991,
-        "maxFreeSockets": 256,
-        "timeout": 30000
+        "maxFreeSockets": 256
       }
     },
     "meta": {
